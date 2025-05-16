@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ThreeDButtonLayout">
+        <attr name="tdbl_buttonBaseColor" format="color" />
+        <attr name="tdbl_cornerRadius" format="dimension" />
+        <attr name="tdbl_verticalPadding" format="dimension" />
+        <attr name="tdbl_elevation" format="dimension" />
+        <attr name="tdbl_translationZ" format="dimension" />
+    </declare-styleable>
+</resources>
