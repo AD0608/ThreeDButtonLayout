@@ -81,7 +81,7 @@ Developed with ❤️ by [AD0608](https://github.com/AD0608)
 
 ## 🛠️ License
 
-   Copyright [2025] [Apache License Version 2.0]
+   Copyright 2025 Apache License Version 2.0
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
